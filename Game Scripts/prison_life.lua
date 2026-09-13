@@ -1,0 +1,2 @@
+-- not fucking doing it. i will not do some kind of bypasses. 
+-- maybe only tp menu
