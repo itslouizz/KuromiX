@@ -243,17 +243,17 @@ end
 
 -- You can find the Source code of the game scripts in the KuromiX GitHub Repo
 -- Game script buttons
-createGameButton("Sharkbite Classic", Color3.fromRGB(0, 170, 255), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/sharkbite_classic.lua") -- sharkbite
-createGameButton("Natural Disaster Survival", Color3.fromRGB(0, 200, 100), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/Natural_disaster_survival.lua") -- nds
-createGameButton("MM2 Script", Color3.fromRGB(200, 50, 50), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/Murder_Mystery_2.lua") -- Murder Mystery 2
-createGameButton("Zombie Attack Troll", Color3.fromRGB(255, 100, 0), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/zombie_attack.lua") -- zombie attack troll
-createGameButton("Build a Boat For Treasure", Color3.fromRGB(120, 0, 255), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/build-a-boat-for-treasure.lua") -- build a boat for treasure
-createGameButton("Emergency Hamburg", Color3.fromRGB(140, 0, 220), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/Emergency_hamburg.lua") -- emergency hamburg
-createGameButton("FNAF: Coop", Color3.fromRGB(160, 0, 200), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/fnaf_coop.lua") -- fnaf coop update
-createGameButton("Survive Overnight in a Mega Store", Color3.fromRGB(180, 0, 180), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/Survive_Overnight_in_a_Mega_Store.lua") -- survive in a superstore
-createGameButton("Rainbow Friends 1", Color3.fromRGB(200, 0, 160), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/rainbow_friends.lua")
-createGameButton("Doors", Color3.fromRGB(220, 0, 140), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/doors.lua") -- doors
-createGameButton("Prison Life", Color3.fromRGB(240, 0, 120), "https://raw.githubusercontent.com/nucax/KuromiX/refs/heads/main/Game%20Scripts/prison_life.lua") -- Prison Life
+createGameButton("Sharkbite Classic", Color3.fromRGB(0, 170, 255), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/sharkbite_classic.lua") -- sharkbite
+createGameButton("Natural Disaster Survival", Color3.fromRGB(0, 200, 100), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/Natural_disaster_survival.lua") -- nds
+createGameButton("MM2 Script", Color3.fromRGB(200, 50, 50), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/Murder_Mystery_2.lua") -- Murder Mystery 2
+createGameButton("Zombie Attack Troll", Color3.fromRGB(255, 100, 0), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/zombie_attack.lua") -- zombie attack troll
+createGameButton("Build a Boat For Treasure", Color3.fromRGB(120, 0, 255), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/build-a-boat-for-treasure.lua") -- build a boat for treasure
+createGameButton("Emergency Hamburg", Color3.fromRGB(140, 0, 220), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/Emergency_hamburg.lua") -- emergency hamburg
+createGameButton("FNAF: Coop", Color3.fromRGB(160, 0, 200), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/fnaf_coop.lua") -- fnaf coop update
+createGameButton("Survive Overnight in a Mega Store", Color3.fromRGB(180, 0, 180), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/Survive_Overnight_in_a_Mega_Store.lua") -- survive in a superstore
+createGameButton("Rainbow Friends 1", Color3.fromRGB(200, 0, 160), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/rainbow_friends.lua")
+createGameButton("Doors", Color3.fromRGB(220, 0, 140), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/doors.lua") -- doors
+createGameButton("Prison Life", Color3.fromRGB(240, 0, 120), "https://raw.githubusercontent.com/itslouizz/KuromiX/refs/heads/main/Game%20Scripts/prison_life.lua") -- Prison Life
 createGameButton("Placeholder Script 8", Color3.fromRGB(255, 50, 100), "https://example.com/script8.lua")
 createGameButton("Placeholder Script 9", Color3.fromRGB(255, 100, 80), "https://example.com/script9.lua")
 createGameButton("Placeholder Script 10", Color3.fromRGB(255, 130, 60), "https://example.com/script10.lua")
