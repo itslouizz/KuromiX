@@ -1,6 +1,6 @@
 # Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/KuromiX/main/maingui.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itslouizz/KuromiX/main/maingui.lua"))()
 ```
 # Supported Executers
 - Velocity
