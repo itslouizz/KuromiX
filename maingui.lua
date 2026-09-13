@@ -359,7 +359,7 @@ AFKFlingBtn.BackgroundColor3 = Color3.fromRGB(200, 0, 100)
 AFKFlingBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 AFKFlingBtn.MouseButton1Click:Connect(function()
 	pcall(function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/afk-fling-script-roblox-gui/main/fling.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/afk-fling-script-roblox-gui/main/fling.lua"))() -- outdated needs update
 	end)
 end)
 
@@ -373,7 +373,7 @@ FOVSliderBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 FOVSliderBtn.MouseButton1Click:Connect(function()
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/FOV-Slider-Script-Roblox/main/script.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/FOV-Slider-Script-Roblox/main/script.lua"))() -- outdated needs update
     end)
 end)
 
@@ -387,7 +387,7 @@ AimbotBtn.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
 AimbotBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 AimbotBtn.MouseButton1Click:Connect(function()
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/roblox-lua-aimbot-universal/main/aimbotnucax.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/roblox-lua-aimbot-universal/main/aimbotnucax.lua"))() -- outdated needs update
     end)
 end)
 
@@ -403,7 +403,7 @@ BetterESPBtn.MouseButton1Click:Connect(function()
     ESPEnabled = false
     ToggleESP.Text = "Toggle ESP (OFF)"
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/FrittenKaese-esp-script-lua/main/espnuxac_frittenkäse.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/FrittenKaese-esp-script-lua/main/espnuxac_frittenkäse.lua"))() -- outdated needs update
     end)
 end)
 
